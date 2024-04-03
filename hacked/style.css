@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.7xDqRgM-itEVqrVEVa2phQHaFj?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0;
+    margin-bottom: 606px;
+}
+
+.textos{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    text-align: center;
+    position: absolute;
+    text-shadow: 2px 2px blue;
+}
+#rp{
+    position: absolute;
+    width: 450px;
+    top: 500px;
+    left: 350px;
+}
+#rp1{
+    position: absolute;
+    width: 150px;
+    top: 0;
+    left: 500px;
+}
+.Video{
+    position: absolute;
+    width: 320px;
+    height: 240px;
+    top: 380px;
+    right: 1%;
+}
